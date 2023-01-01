@@ -31,9 +31,10 @@ footer-links:
   rss: 
   twitter: mepherion
   stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: @mepherion
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
+  twitch: https://www.twitch.tv/mepherion
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
